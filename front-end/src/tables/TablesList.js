@@ -3,7 +3,7 @@
 import React from "react";
 
 //import components
-import TableFinish from "../tables.TableFinish";
+import TableFinish from "./TableFinish";
 
 const TablesList = ({ tables, clickHandler, error }) => {
 	const tableRows = tables.map((table) => (
