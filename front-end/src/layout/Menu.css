@@ -1,0 +1,14 @@
+.sidebar-brand-text {
+font-family: 'Roboto', sans-serif;
+}
+.nav-item {
+    font-size: 15px;
+}
+
+
+@media all and (min-width: 750px) {
+
+    .nav-item {
+        font-size: 20px
+    }
+}
